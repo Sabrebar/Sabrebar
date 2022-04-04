@@ -1,1 +1,1 @@
-maths, stochastic trading and DeFi
+maths, computer science and DeFi arbitrage
