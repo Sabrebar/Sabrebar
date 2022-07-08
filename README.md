@@ -1,1 +1,1 @@
-maths, computer science and DeFi arbitrage
+maths, computer science, CeFi/DeFi arbitrage, HFT
