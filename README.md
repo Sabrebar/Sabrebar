@@ -1,1 +1,2 @@
-maths, computer science, CeFi/DeFi arbitrage, HFT
+Maths, computer science, CeFi/DeFi arbitrage, HFT.
+Private repos for now
